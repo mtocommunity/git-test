@@ -1,0 +1,11 @@
+git add: Añade cambios o archivos.
+git commit: Crea un commit (un estado del proyecto) en un momento dado.
+git status: Muestra el estado del repositorio actual.
+git log: Muestra el historial de commits.
+git revert: Crea un commit con que deshace cambios realizados por un commit anterior.
+git pull:
+git push:
+git branch: Lista todas las ramas o permite crear una nueva.
+git checkout:
+git merge:
+git rebase:

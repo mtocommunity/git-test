@@ -1,0 +1,1 @@
+GitHub es una plataforma web que permite el hospedaje y gestión de proyectos de software utilizando Git. Esta facilita la colaboración entre múltiples desarrolladores dentro de un mismo proyecto.

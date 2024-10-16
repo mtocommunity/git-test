@@ -1,0 +1,1 @@
+Una rama es una versión paralela del código que permite desarrollar funcionalidades, corregir errores o experimentar sin afectar la rama principal.
